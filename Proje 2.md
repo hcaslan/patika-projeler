@@ -4,10 +4,10 @@
 
 ### Soru 1:
 Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
-```
+
 Cevap:
 ![alt text](source/merge-sort.PNG)
-```
+
 ### Soru 2:
 Big-O gösterimini yazınız.
 ```
