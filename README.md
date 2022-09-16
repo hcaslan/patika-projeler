@@ -1,8 +1,7 @@
-# patika-projeler
+# Proje 1:Insertion Sort Projesi
 
-## Insertion Sort Projesi
+[22,27,16,2,18,6] -> Insertion Sort
 
-  Proje 1 [22,27,16,2,18,6] -> Insertion Sort
 ### Soru 1:
 Yukarı verilen dizinin sort türüne göre aşamalarını yazınız. 
 ```
