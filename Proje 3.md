@@ -4,10 +4,9 @@
 
 ### Soru 1:
 Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
-```
+
 Cevap:
 ![alt text](source/binary-search.PNG)
-
+```
 root = 7
-
 ```
